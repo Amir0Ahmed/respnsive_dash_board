@@ -24,7 +24,7 @@ class DashBoardTabletLayout extends StatelessWidget {
               children: [
                 Padding(
                   padding: EdgeInsets.only(top: 40),
-                  child: AllEpensesAndQuickInvoicesSection(),
+                  child: AllExpensesAndQuickInvoicesSection(),
                 ),
                 DetailsSection(),
               ],

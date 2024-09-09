@@ -15,7 +15,7 @@ class _DashBoardMobileLayoutState extends State<DashBoardMobileLayout> {
     return const SingleChildScrollView(
       child: Column(
         children: [
-          AllEpensesAndQuickInvoicesSection(),
+          AllExpensesAndQuickInvoicesSection(),
           DetailsSection(),
         ],
       ),
