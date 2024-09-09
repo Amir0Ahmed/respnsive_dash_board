@@ -3,8 +3,8 @@ import 'package:responsive_dash_board/widgets/all_expenses_and_quick_invoices_se
 import 'package:responsive_dash_board/widgets/custom_drawer.dart';
 import 'package:responsive_dash_board/widgets/deatails_section.dart';
 
-class TabletDashBoard extends StatelessWidget {
-  const TabletDashBoard({super.key});
+class DashBoardTabletLayout extends StatelessWidget {
+  const DashBoardTabletLayout({super.key});
 
   @override
   Widget build(BuildContext context) {
